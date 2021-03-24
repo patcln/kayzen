@@ -1,0 +1,24 @@
+# Ignore Mac system files
+.DS_store
+
+# Ignore Mac system files
+.ipynb_checkpoints
+
+# Jupyter Files
+analysis.ipynb
+fuzzy.ipynb
+kayzen.ipynb
+
+# CSV
+scrape.csv
+
+# env
+*.yml
+
+kayzen.db
+
+stark*.csv
+
+Igismap/TM_WORLD_BORDERS-0.3.dbf
+Igismap/TM_WORLD_BORDERS-0.3.prj
+Igismap/TM_WORLD_BORDERS-0.3.shx
